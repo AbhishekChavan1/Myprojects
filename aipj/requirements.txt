@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+langchain
+mistralai
+dotenv
+python-dotenv
